@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GojoDark/GojoDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GOJODARK
 
-Here are some ideas to get you started:
+### Victor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Desenvolvedor • Gamer • Criando coisas que eu gostaria de usar.**
+
+</div>
+
+---
+
+## Sobre mim
+
+Sou **Victor**, também conhecido como **GojoDark**.
+
+Gosto de transformar ideias em projetos, principalmente envolvendo jogos, ferramentas e comunicação.
+
+Atualmente trabalhando no **VØIDCORE** e no **Nightcall**.
+
+---
+
+## Projetos
+
+### ◈ VØIDCORE
+
+Ferramentas e utilidades para jogadores de FPS.
+
+`CS2` • `VALORANT` • `Rainbow Six Siege`
+
+[Ver projeto →](https://github.com/GojoDark/V-IDCORE)
+
+### ◐ Nightcall
+
+Uma plataforma de comunicação e social focada em amigos, comunidades e chamadas.
+
+[Ver projeto →](https://github.com/GojoDark/Nightcall)
+
+---
+
+## Tecnologias
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### GOJODARK
+
+`Criar • Testar • Quebrar • Melhorar`
+
+</div>
