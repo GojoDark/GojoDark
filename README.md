@@ -1,4 +1,4 @@
-Fala, eu sou o Victor.
+Aopa, eu sou o Victor.
 
 🎮 **GojoDark** • 💻 Desenvolvimento • ⚙️ Tecnologia • 🎯 Games
 
