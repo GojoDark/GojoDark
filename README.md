@@ -1,8 +1,14 @@
-Aopa, eu sou o Victor.
+<div align="center">
 
-🎮 **GojoDark** • 💻 Desenvolvimento • ⚙️ Tecnologia • 🎯 Games
+# ⚡ GOJODARK
 
-Gosto de transformar ideias em projetos e criar ferramentas que eu realmente usaria.
+### Victor
+
+🎮 Games &nbsp;•&nbsp; 💻 Programação &nbsp;•&nbsp; ⚙️ Tecnologia
+
+**Transformando ideias em projetos que eu realmente gostaria de usar.**
+
+</div>
 
 ---
 
@@ -10,9 +16,11 @@ Gosto de transformar ideias em projetos e criar ferramentas que eu realmente usa
 
 Sou **Victor**, também conhecido como **GojoDark**.
 
-Curto **programação, tecnologia, games e desenvolvimento de projetos próprios**. Grande parte do que faço começa com uma ideia simples:
+Curto **programação, tecnologia e games**, principalmente quando posso transformar uma ideia em algo que realmente funciona.
 
-> **“Isso seria útil. Então por que não fazer?”**
+Grande parte dos meus projetos começa com uma pergunta simples:
+
+> **“Isso seria útil... então por que não criar?”**
 
 Atualmente desenvolvendo **VØIDCORE** e **Nightcall**.
 
@@ -32,19 +40,19 @@ Atualmente desenvolvendo **VØIDCORE** e **Nightcall**.
 
 Plataforma de ferramentas e utilidades para jogadores de FPS.
 
-`CS2` • `VALORANT` • `Rainbow Six Siege`
+**CS2 • VALORANT • Rainbow Six Siege**
 
-⚙️ Sensibilidade • Crosshair • Configurações • Ferramentas para FPS
+`Sensibilidade` • `Crosshair` • `Configurações` • `Ferramentas para FPS`
 
 ➡️ **[Ver VØIDCORE](https://github.com/GojoDark/V-IDCORE)**
 
----
+<br>
 
 ### 📡 Nightcall
 
-Plataforma de comunicação desenvolvida como uma alternativa própria para conversar, jogar e criar comunidades.
+Plataforma própria de comunicação para conversar, jogar e criar comunidades.
 
-💬 Conversas • 👥 Amigos • 🎙️ Chamadas • 🖥️ Compartilhamento de tela • 🌐 Comunidades
+`Conversas` • `Amigos` • `Chamadas` • `Compartilhamento de tela` • `Comunidades`
 
 ➡️ **[Ver Nightcall](https://github.com/GojoDark/Nightcall)**
 
@@ -52,24 +60,17 @@ Plataforma de comunicação desenvolvida como uma alternativa própria para conv
 
 ## 🎮 Interesses
 
-- 🎮 Games
-- 💻 Programação
-- ⚙️ Tecnologia
-- 🎯 FPS
-- 🤖 Inteligência Artificial
-- 🔧 Modding
-- 🌐 Desenvolvimento Web
-- 🖥️ Hardware e software
-- 🛠️ Criar e experimentar projetos
+`🎮 Games` &nbsp;
+`💻 Programação` &nbsp;
+`⚙️ Tecnologia` &nbsp;
+`🎯 FPS`
 
----
+`🤖 Inteligência Artificial` &nbsp;
+`🔧 Modding` &nbsp;
+`🌐 Desenvolvimento Web`
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GojoDark&show_icons=true&theme=midnight-purple&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GojoDark&layout=compact&theme=midnight-purple&hide_border=true&locale=pt-br" />
-</p>
+`🖥️ Hardware & Software` &nbsp;
+`🛠️ Projetos próprios`
 
 ---
 
