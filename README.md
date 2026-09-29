@@ -1,61 +1,84 @@
-<div align="center">
+Fala, eu sou o Victor.
 
-# GOJODARK
+🎮 **GojoDark** • 💻 Desenvolvimento • ⚙️ Tecnologia • 🎯 Games
 
-### Victor
-
-**Desenvolvedor • Gamer • Criando coisas que eu gostaria de usar.**
-
-</div>
+Gosto de transformar ideias em projetos e criar ferramentas que eu realmente usaria.
 
 ---
 
-## Sobre mim
+## 👤 Sobre mim
 
 Sou **Victor**, também conhecido como **GojoDark**.
 
-Gosto de transformar ideias em projetos, principalmente envolvendo jogos, ferramentas e comunicação.
+Curto **programação, tecnologia, games e desenvolvimento de projetos próprios**. Grande parte do que faço começa com uma ideia simples:
 
-Atualmente trabalhando no **VØIDCORE** e no **Nightcall**.
+> **“Isso seria útil. Então por que não fazer?”**
+
+Atualmente desenvolvendo **VØIDCORE** e **Nightcall**.
 
 ---
 
-## Projetos
+## ⚙️ Tecnologias
 
-### ◈ VØIDCORE
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+</p>
 
-Ferramentas e utilidades para jogadores de FPS.
+---
+
+## 🚀 Projetos
+
+### 🎯 VØIDCORE
+
+Plataforma de ferramentas e utilidades para jogadores de FPS.
 
 `CS2` • `VALORANT` • `Rainbow Six Siege`
 
-[Ver projeto →](https://github.com/GojoDark/V-IDCORE)
+⚙️ Sensibilidade • Crosshair • Configurações • Ferramentas para FPS
 
-### ◐ Nightcall
-
-Uma plataforma de comunicação e social focada em amigos, comunidades e chamadas.
-
-[Ver projeto →](https://github.com/GojoDark/Nightcall)
+➡️ **[Ver VØIDCORE](https://github.com/GojoDark/V-IDCORE)**
 
 ---
 
-## Tecnologias
+### 📡 Nightcall
 
-<div align="center">
+Plataforma de comunicação desenvolvida como uma alternativa própria para conversar, jogar e criar comunidades.
 
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white)
+💬 Conversas • 👥 Amigos • 🎙️ Chamadas • 🖥️ Compartilhamento de tela • 🌐 Comunidades
 
-</div>
+➡️ **[Ver Nightcall](https://github.com/GojoDark/Nightcall)**
+
+---
+
+## 🎮 Interesses
+
+- 🎮 Games
+- 💻 Programação
+- ⚙️ Tecnologia
+- 🎯 FPS
+- 🤖 Inteligência Artificial
+- 🔧 Modding
+- 🌐 Desenvolvimento Web
+- 🖥️ Hardware e software
+- 🛠️ Criar e experimentar projetos
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GojoDark&show_icons=true&theme=midnight-purple&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GojoDark&layout=compact&theme=midnight-purple&hide_border=true&locale=pt-br" />
+</p>
 
 ---
 
 <div align="center">
 
-### GOJODARK
+## GOJODARK
 
-`Criar • Testar • Quebrar • Melhorar`
+`GAMES // CODE // TECH`
+
+**Criar. Testar. Quebrar. Melhorar.**
 
 </div>
