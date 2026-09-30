@@ -2,8 +2,6 @@
   <img src="./GojoDark_Banner.png" width="100%" alt="GojoDark Banner">
 </p>
 
-### Victor
-
 🎮 Games &nbsp;•&nbsp; 💻 Programação &nbsp;•&nbsp; ⚙️ Tecnologia
 
 **Transformando ideias em projetos que eu realmente gostaria de usar.**
