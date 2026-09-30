@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./GojoDark_Banner.png" width="100%" alt="GojoDark Banner">
+</p>
 
 🎮 Games &nbsp;•&nbsp; 💻 Programação &nbsp;•&nbsp; ⚙️ Tecnologia
 
